@@ -1,0 +1,48 @@
+#game {
+    height: 200px;
+    width: 400px;
+    background: #4a90e2;
+    text-align: center;
+    position: fixed;
+    top: 25%;
+    left: 50%;
+    margin-top: -100px;
+    margin-left: -200px;
+    border-radius: 5px;
+}
+#response {
+    width: 400px;
+    background: #4a90e2;
+    text-align: center;
+    position: fixed;
+    top: 46%;
+    left: 50%;
+    margin-top: -100px;
+    margin-left: -200px;
+    border-radius: 5px;
+}
+input{
+    padding-left:2px;
+    border-radius: 5px;
+}
+#gameTitle{
+    position: fixed;
+    top: 15%;
+    left: 50%;
+    margin-top: -100px;
+    margin-left: -300px;
+}
+html{
+    background-color:dimgrey;
+}
+#report {
+    width: 400px;
+    background: #4a90e2;
+    text-align: center;
+    position: fixed;
+    top: 55%;
+    left: 50%;
+    margin-top: -100px;
+    margin-left: -200px;
+    border-radius: 5px;
+}
